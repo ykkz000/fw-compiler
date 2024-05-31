@@ -1,0 +1,6 @@
+set(MAJOR_VERSION 1)
+set(MINOR_VERSION 0)
+set(PATCH_VERSION 0)
+set(AUTHOR_NAME "ykkz000 niyuta")
+set(AUTHOR_EMAIL "ykkz000@163.com 21371348@buaa.edu.cn")
+set(PROJECT_LICENSE "No License")
