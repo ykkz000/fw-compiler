@@ -120,7 +120,7 @@ void parse_network_layer_protocol(FILE *output_file, xmlNodePtr network_layer_pr
 {
     uint16_t proto;
 
-    if (xmlStrcmp(network_layer_protocol->content, (const xmlChar *)"IPv4") == 0)
+    if (xmlStrcmp(network_layer_protocol->content, (const xmlChar *)"IP") == 0)
     {
         proto = (uint16_t) ETH_P_IP;
     }
