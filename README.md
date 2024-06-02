@@ -2,7 +2,7 @@
 ## Compile
 Use `cmake` and `make`.
 ## Usage
-```
+```sh
 fwc <source file>
 ```
 ## Lauguage
