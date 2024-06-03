@@ -1,4 +1,8 @@
 # FW-Compiler
+## Requirement
+1. Linux Kernel
+2. LibXml2
+3. LibXml2-Dev (Compile Requirement)
 ## Compile
 Use `cmake` and `make`.
 ## Usage
